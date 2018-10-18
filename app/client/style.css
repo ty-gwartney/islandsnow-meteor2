@@ -1,0 +1,31 @@
+.ui.borderless.menu {
+  background-color: #f5f5f5;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.grid.middle {
+  margin: 0px;
+}
+
+.ui.grid.middle .ui.borderless.menu {
+  background-color: white;
+}
+
+.ui.borderless.menu .dropdown.item:hover {
+  background-color: white;
+}
+
+#midIcon {
+  padding-top: 10px;
+}
+
+.ui.grid.footer-background {
+  padding: 20px;
+  background-color: #292929;
+}
+
+.ui.list {
+  color: white;
+  padding-top: 35px;
+}
